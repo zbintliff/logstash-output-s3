@@ -54,7 +54,7 @@ require "fileutils"
 #    s3{
 #      access_key_id => "crazy_key"             (required)
 #      secret_access_key => "monkey_access_key" (required)
-#      endpoint_region => "eu-west-1"           (required)
+#      region => "eu-west-1"                    (required)
 #      bucket => "boss_please_open_your_bucket" (required)
 #      size_file => 2048                        (optional)
 #      time_file => 5                           (optional)
